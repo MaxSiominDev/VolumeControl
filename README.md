@@ -2,7 +2,7 @@
 Control device volume from this app
 ## Installation
 
-* Download [apk](https://maxsiomin.dev/apps/qr_generator/qr_generator.apk)
+* Download [apk](https://maxsiomin.dev/apps/volume_control/volume_control.apk)
 * Clone the repo using git:
 ```bash
 git clone https://github.com/MaxSiominDev/VolumeControl.git
